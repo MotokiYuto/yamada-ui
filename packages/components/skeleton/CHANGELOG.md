@@ -1,5 +1,18 @@
 # @yamada-ui/skeleton
 
+## 1.0.27
+
+### Patch Changes
+
+- [#1718](https://github.com/yamada-ui/yamada-ui/pull/1718) [`12e3b50`](https://github.com/yamada-ui/yamada-ui/commit/12e3b50d8919d79253dea1d7c1b1dbacc01e1a48) Thanks [@yasuaki640](https://github.com/yasuaki640)! - removed properties not used in SkeletonText.
+
+- Updated dependencies [[`5ec5a23`](https://github.com/yamada-ui/yamada-ui/commit/5ec5a231cc134a280eeb7841f99348c74cd4b948)]:
+  - @yamada-ui/utils@1.2.1
+  - @yamada-ui/use-value@1.1.15
+  - @yamada-ui/core@1.7.1
+  - @yamada-ui/use-animation@1.0.27
+  - @yamada-ui/use-previous@1.0.14
+
 ## 1.0.26
 
 ### Patch Changes

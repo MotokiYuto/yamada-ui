@@ -1,5 +1,17 @@
 # @yamada-ui/use-breakpoint
 
+## 1.3.0
+
+### Minor Changes
+
+- [#1969](https://github.com/yamada-ui/yamada-ui/pull/1969) [`7aa5a90`](https://github.com/yamada-ui/yamada-ui/commit/7aa5a90ef5f02710dccd919d5c11481ea25fc262) Thanks [@hirotomoyamada](https://github.com/hirotomoyamada)! - Added `useBreakpointState`, `useBreakpointEffect` and `useUpdateBreakpointEffect`.
+
+### Patch Changes
+
+- Updated dependencies [[`5ec5a23`](https://github.com/yamada-ui/yamada-ui/commit/5ec5a231cc134a280eeb7841f99348c74cd4b948)]:
+  - @yamada-ui/utils@1.2.1
+  - @yamada-ui/core@1.7.1
+
 ## 1.2.14
 
 ### Patch Changes

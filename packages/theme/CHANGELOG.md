@@ -1,5 +1,15 @@
 # @yamada-ui/theme
 
+## 1.8.1
+
+### Patch Changes
+
+- [#1966](https://github.com/yamada-ui/yamada-ui/pull/1966) [`744bbbb`](https://github.com/yamada-ui/yamada-ui/commit/744bbbb4196a65daae16e93351ab7b7180e8503b) Thanks [@108yen](https://github.com/108yen)! - Fixed problem with dark-mode bg not being reflected in windows.
+
+- Updated dependencies [[`5ec5a23`](https://github.com/yamada-ui/yamada-ui/commit/5ec5a231cc134a280eeb7841f99348c74cd4b948)]:
+  - @yamada-ui/utils@1.2.1
+  - @yamada-ui/core@1.7.1
+
 ## 1.8.0
 
 ### Minor Changes
